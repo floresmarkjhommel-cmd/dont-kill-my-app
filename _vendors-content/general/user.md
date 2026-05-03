@@ -1,4 +1,4 @@
----
+---done kill/renoved the background when I'm playing games
 manufacturer:
     - general
 ---
